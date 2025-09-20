@@ -1,0 +1,20 @@
+# Environment & OS
+python-dotenv
+
+# LangChain and related
+langchain
+langchain-huggingface
+langchain-community
+
+# FAISS vectorstore
+faiss-cpu
+
+# HuggingFace embeddings
+sentence-transformers
+
+# Web server
+fastapi
+uvicorn
+
+# Your custom Agno agent package
+agno
