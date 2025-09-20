@@ -17,4 +17,7 @@ fastapi
 uvicorn
 
 # Your custom Agno agent package
+
 agno
+
+google-genai
